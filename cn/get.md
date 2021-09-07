@@ -88,16 +88,41 @@ https://explorer.hayek.link
 
 ## 免费取得小额哈耶克币
 
+将您的钱包地址复制粘贴到下面的输入框。点 “Send”按钮即可申请到小额哈耶克币。申请之后，大约需要15到30秒才能在您的钱包看到余额.
+
+每个钱包地址限领一次。每次大约0.002哈耶克币.
+
+<form name="input" action="https://free.hayek.link/hayek/" method="get">
+您的钱包地址: <input type="text" name="to">
+<input type="submit" value="Send">
+</form>
+
 ## 撰写哈耶克公链的介绍文章取得较大金额哈耶克币
+
+如果您在媒体上撰写了有关哈耶克币的介绍文章。请将您文章链接地址发邮件到 admin@hayek.link ，我们根据情况会赠送较大金额的哈耶克给您。请在您发表的文章末尾附上您的钱包地址。
 
 ## 在微博，推特，脸书上宣传哈耶克公链免费取得哈耶克币
 
+
+<form name="input" action="https://free.hayek.link/weibo/" method="get">
+微博发帖所在地址: <input type="text" name="address">
+<input type="submit" value="Send">
+</form>
+
+
 ## 开发基于哈耶克公链的Dapp获得较大金额的哈耶克币
+
+如果您已经开发了支持哈耶克链的相关软件。请与我们联系 admin@hayek.link ，我们会视情况给与您哈耶克币奖励。
 
 ## 加入我们的开发团队，获得大量的哈耶克币
 
+如果您精通区块链相关软件开发，请与我们联系 admin@hayek.link ，欢迎您加入我们的团队。
+
 ## 加入我们的宣传推广团队，获得大量哈耶克币
+
+如果您是媒体从业人员，有意协助我们宣传推广哈耶克链。我们将视情况给与您较大金额的哈耶克币作为奖励。
 
 ## 购买哈耶克币
 
+在近期，我们会推出哈耶克链上的去中心化担保交易平台。届时，您将可以直接在此平台买卖哈耶克币。
 
