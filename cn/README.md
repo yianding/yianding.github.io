@@ -2,10 +2,9 @@
 sort: 1
 ---
 
-# Test Documentation
+# 哈耶克公链
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
 ```
 
-{% include list.liquid all=true %}
