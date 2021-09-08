@@ -3,11 +3,11 @@ sort: 7
 ---
 
 # 获取哈耶克币
-&ensp;&ensp;&ensp;&ensp;如果你想取得哈耶克币，首先你需要准备一个钱包。我们推荐大家使用 ![avatar](https://metamask.io/images/favicon.png)<a href="https://metamask.io" target="_blank">MetaMask钱包,点击这里即可进入MetaMask的官方网站</a>下载安装.如果你在中国大陆地区，你可能需要翻墙上网.
+&ensp;&ensp;&ensp;&ensp;如果你想取得哈耶克币，首先你需要准备一个钱包。我们推荐大家使用 ![MetaMask](https://metamask.io/images/favicon.png)MetaMask钱包,<a href="https://metamask.io" target="_blank">点击这里即可进入MetaMask的官方网站</a>下载安装.如果你在中国大陆地区，你可能需要翻墙上网.
 
 ## 准备好你的钱包
 
-### 苹果手机上安装MetaMask钱包 ![avatar](https://metamask.io/images/favicon.png)
+### 苹果手机上安装MetaMask钱包 
 &ensp;&ensp;&ensp;&ensp;在苹果应用商店，你只需要搜索Metamask即可找到MetaMask钱包，但是，如果你在中国大陆，你需要更改你的appleid（苹果id)的国家为非中国大陆地区（比如香港，澳门，美国等），才可以在苹果应用商店下载到MetaMask钱包。如何更改你苹果ID的国家地区，<a href="https://support.apple.com/zh-cn/HT201389" target="_blank">请点这里阅读相关说明</a>
 
 ### 安卓手机上安装MetaMask钱包
