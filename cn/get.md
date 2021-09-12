@@ -85,6 +85,8 @@ https://explorer.hayek.link
     ethminer -G -P http://127.0.0.1:8080 
 ``` 
 
+### 简易挖矿软件包
+如果你不想那么复杂的设置挖矿软件,有一个傻瓜挖矿软件包.只需要在windows平台下载一个压缩文件.解压缩后就可以立即挖矿.[请点这里访问](https://hayekwakuang.github.io)
 
 ## 免费取得小额哈耶克币
 
