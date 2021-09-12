@@ -1,0 +1,48 @@
+Hayek Chain is open for miner.
+Require:
+   1.Click here to download and install Metamask wallet to your Chrome browser or Android/IOS phone.
+
+    And add the Hayek network to your Metamask wallet with following setting.
+
+    RPC: https://rpc.hayek.link
+
+    Chain ID: 1000
+
+    Network name: HAYEK
+
+    Symbol: HAYEK
+
+   2.Windows or Linux Computer.
+
+   3.Nvidia Card or AMD Card.(Optional)
+
+Step by Step:
+   1.Download and install Geth(go-ethererum) and add the installation directory to your PATH environment variable. click here to download
+
+   2.Download and install ethminer if you have Nvida or AMD video card. Click here to download
+
+   3. Create a directory named d:\hayek 
+
+   4. Open the cmd terminal and entry d:\hayek  and download hayek.json and save  it into d:\hayek. Click here  open this file and  click the rigth button of  mouse ,select save as ,explore your directory to d:\hayek
+
+   5. Run the command like this,to init the genesis block of HAYEK.
+
+      geth --datadir data init hayek.json
+
+      the best way is download the init.bat file to d:\hayek , and run init.bat 
+
+   6. Run the command  to start geth and mine hayek coin with CPU
+
+      geth --networkid 1000 --datadir data --bootnodes enode://63225a5c9cd2db11b40b83f071e935af27d25c1d490590f2fbb3ad1557d93f3e164645e7bbc21b6a50221a38e02b88326e7ff55d48aada332bbd337f85828371@107.173.159.187:30303 -ipcdisable -syncmode full --rpc --allow-insecure-unlock --rpccorsdomain "*" --rpcaddr=0.0.0.0 --rpcport 801 --miner.etherbase 0x18df7a291F6ed27B82B3920303E3A2f808310D31 --mine --miner.threads=1 console
+
+    the best way is download the mine.bat file to d:\hayek , and run mine.bat 
+
+   IMORTANT: please replace the  0x18df7a291F6ed27B82B3920303E3A2f808310D31 to your ethereum wallet address. 
+
+ 7.Mine Hayek with GPU
+
+     Enter your ethminer installation directory and run this command
+
+    ethminer -U -P http://127.0.0.1:801
+
+ 

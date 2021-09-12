@@ -1,0 +1,25 @@
+{
+  "name": "HAYEK Mainnet",
+  "chain": "HYK",
+  "network": "mainnet",
+  "rpc": [,
+    "https://rpc.hayek.link"
+  ],
+  "faucets": [https://hayek.link],
+  "nativeCurrency": {
+    "name": "Hayek",
+    "symbol": "HYK",
+    "decimals": 18
+  },
+  "infoURL": "https://hayek.link",
+  "shortName": "HYK",
+  "chainId": 1000,
+  "networkId": 1000,
+  "icon": "hayek",
+  "explorers": [{
+    "name": "HayekChain",
+    "url": "https://explorer.hayek.link",
+    "icon": "hayek",
+    "standard": "EIP3091"
+  }]
+}
