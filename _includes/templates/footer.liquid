@@ -37,9 +37,7 @@
         {{- author -}}
     </a>
     {{ __.revision | default: "Revision" }}
-    <a class="text-gray" href="{{ "" }}/commit/{{ docs.build_revision }}" title="{{ docs.build_revision }}" rel="noreferrer" target="_blank">
-        {{- docs.build_revision | slice: 0, 7 -}}
-    </a>
+
     {% unless site.url contains "rundocs.io" %}
         <br>
   
