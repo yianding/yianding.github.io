@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 1000,
+      "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+      "name": "USDH",
+      "symbol": "USDH",
+      "decimals": 8,
+      "logoURI": "https://hayek.link/USDH.png"
+    },
+    {
+      "chainId": 1000,
       "address": "0xf3DD11F7d8fA791c2Da46a5D26634592E417Af6C",
       "name": "WHYK",
       "symbol": "WHYK",
