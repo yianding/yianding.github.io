@@ -9,8 +9,8 @@
   "tokens": [
     {
       "chainId": 1000,
-      "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
-      "name": "USDH",
+      "address": "0xf8d867D8895b1879AF86D167f13BAA1CA4f0f7e7",
+      "name": "USD ON HAYEK",
       "symbol": "USDH",
       "decimals": 8,
       "logoURI": "https://hayek.link/USDH.png"
@@ -30,14 +30,6 @@
       "symbol": "USDT",
       "decimals": 8,
       "logoURI": "https://hayek.link/0xb7C8d76587DbE244d25a76555aEBcB2dd77ae4F0.png"
-    },
-    {
-      "chainId": 1000,
-      "address": "0xC1b231Fdfc5227de9c1555BE657EF00b2b9886BC",
-      "name": "CNYT",
-      "symbol": "CNYT",
-      "decimals": 8,
-      "logoURI": "https://hayek.link/0xC1b231Fdfc5227de9c1555BE657EF00b2b9886BC.png"
     }
     
   ],
