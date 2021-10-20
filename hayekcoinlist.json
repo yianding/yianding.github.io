@@ -30,6 +30,14 @@
       "symbol": "USDT",
       "decimals": 8,
       "logoURI": "https://hayek.link/0xb7C8d76587DbE244d25a76555aEBcB2dd77ae4F0.png"
+    },
+    {
+      "chainId": 1000,
+      "address": "0x82514955f87b441C39BAfB80752760052A293D59",
+      "name": "VSB",
+      "symbol": "VSB",
+      "decimals": 13,
+      "logoURI": "https://hayek.link/0x82514955f87b441C39BAfB80752760052A293D59.png"
     }
     
   ],
