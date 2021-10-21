@@ -23,7 +23,6 @@ sort: 7
 
 ### 安装imToken钱包
 &ensp;&ensp;&ensp;&ensp;如果你不喜欢Metamask钱包,你也可以使用![imToken](https://token.im/img/favicon-32x32.png)[imToken钱包](https://token.im/).
-[imToken](https://dotc.hayek.link)
 
 ## 配置你的钱包
 ### 保护好你的12个英文单词
