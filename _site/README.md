@@ -6,5 +6,4 @@
 <p align="center"><a href="/trade" target="_blank" > 2.去中心化交易所(Uniswap on Hayek) </a></p>
 <p align="center"><a href="https://dotc.hayek.link" target="_blank" > 3.去中心化OTC点对点交易(测试版) DOTC.HAYEK.LINK </a></p>
 <p align="center"><a href="https://miner.hayek.link" target="_blank" >4.快速挖矿教程 </a></p>
-<p align="center"><a href="https://bafybeiaxgudueredfuzw43i6ckwfl645ead3w5mmxippp4p5dqnn5m7w6m.ipfs.infura-ipfs.io/cn/get.html" target="_blank" >5.使用哈耶克链所有服务之前,都需要点这里,设置好 MetaMask钱包 </a></p>
-<p align="center"><a href="https://token.im/" target="_blank" >6.手机上也可以使用imToken钱包 </a></p>
+<p align="center"><a href="https://hayek.link/cn/get.html#%E5%87%86%E5%A4%87%E5%A5%BD%E4%BD%A0%E7%9A%84%E9%92%B1%E5%8C%85" target="_blank" >5.使用哈耶克链所有服务之前,都需要下载安装MetaMask钱包或者imToken钱包,并添加哈耶克网络到您的钱包 </a></p>

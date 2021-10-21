@@ -13,7 +13,7 @@ sort: 7
 &ensp;&ensp;&ensp;&ensp;在苹果应用商店，你只需要搜索Metamask即可找到MetaMask钱包，但是，如果你在中国大陆，你需要更改你的appleid（苹果id)的国家为非中国大陆地区（比如香港，澳门，美国等），才可以在苹果应用商店下载到MetaMask钱包。如何更改你苹果ID的国家地区，<a href="https://support.apple.com/zh-cn/HT201389" target="_blank">请点这里阅读相关说明</a>
 
 ### 安卓手机上安装MetaMask钱包
-&ensp;&ensp;&ensp;&ensp;安卓手机下载，如果你手机可以直接访问Google Play应用商店，则你可以直接在其中搜索到MetaMask钱包并且安装。但是，在中国大陆的绝大部分手机，都无法访问Google Play应用商店。此时，你可以访问如下网站下载apk文件进行安装。![avatar](https://metamask.io/images/favicon.png) [点这里进入下载页面](https://www.apkmonk.com/app/io.metamask/)
+&ensp;&ensp;&ensp;&ensp;安卓手机下载，如果你手机可以直接访问Google Play应用商店，则你可以直接在其中搜索到MetaMask钱包并且安装。但是，在中国大陆的绝大部分手机，都无法访问Google Play应用商店。此时，你可以访问如下网站下载apk文件进行安装。![avatar](https://metamask.io/images/favicon.png) [点这里进入下载页面](https://bafybeifunqckmw3qmhfeejeixkzzt5e3cd5ju2jwrajskyrtawwnx6uhda.ipfs.infura-ipfs.io/io.metamask_2021-08-30.apk)
 
 ### Chrome浏览器上安装MetaMask钱包
 &ensp;&ensp;&ensp;&ensp;最为推荐的方式，是在您的电脑上下载安装MetaMask钱包。MetaMask钱包在windows,Linux，Mac电脑上都可以安装，但是，它不是一个独立可以运行的程序。而是一个浏览器的插件应用。首先，我们强烈推荐你在电脑上安装Chrome浏览器.[点击这里进入Chrome下载安装教程](https://support.google.com/chrome/answer/95346?hl=zh-Hans&co=GENIE.Platform%3DDesktop)
