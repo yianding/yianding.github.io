@@ -22,7 +22,7 @@ sort: 7
 
 
 ### 安装imToken钱包
-&ensp;&ensp;&ensp;&ensp;如果你不喜欢Metamask钱包,你也可以使用![imToken](https://token.im/img/favicon-32x32.png)[imToken钱包](https://token.im/).
+&ensp;&ensp;&ensp;&ensp;如果你不喜欢MetaMask钱包,你也可以使用![imToken](https://token.im/img/favicon-32x32.png)[imToken钱包](https://token.im/).
 
 ## 配置你的钱包
 ### 保护好你的12个英文单词
@@ -56,7 +56,7 @@ https://explorer.hayek.link
 ``` 
 
 ### 在imToken中添加哈耶克节点
-&ensp;&ensp;&ensp;&ensp; 按照前文的方法安装好imToken钱包之后,按顺序点击: 我->使用设置->节点设置->ETHEREUM, 点右上角的+号,选择 "自定以" ,填写哈耶克网的的网络名称 HAYEK, RPC地址:https://rpc.hayek.link ,Chain ID:1000,Symbol:HYK, 区块浏览器:https://explorer.hayek.link
+&ensp;&ensp;&ensp;&ensp; 按照前文的方法安装好imToken钱包之后,按顺序点击: 我->使用设置->节点设置->ETHEREUM, 点右上角的+号,选择 "自定义" ,填写哈耶克网的的网络名称 HAYEK, RPC地址:https://rpc.hayek.link ,Chain ID:1000,Symbol:HYK, 区块浏览器:https://explorer.hayek.link
 
 ## 挖矿
 
