@@ -7,6 +7,8 @@ sort: 7
 
 ## 准备好你的钱包
 
+    
+
 ### 苹果手机上安装MetaMask钱包 
 &ensp;&ensp;&ensp;&ensp;在苹果应用商店，你只需要搜索Metamask即可找到MetaMask钱包，但是，如果你在中国大陆，你需要更改你的appleid（苹果id)的国家为非中国大陆地区（比如香港，澳门，美国等），才可以在苹果应用商店下载到MetaMask钱包。如何更改你苹果ID的国家地区，<a href="https://support.apple.com/zh-cn/HT201389" target="_blank">请点这里阅读相关说明</a>
 
@@ -18,6 +20,10 @@ sort: 7
 
 &ensp;&ensp;&ensp;&ensp;在你安装好你的Chrome浏览器之后，启动你的Chrome浏览器，在chrome浏览器地址栏输入 chrome://extensions/ 进入扩展程序界面，搜索 MetaMask，按提示安装好MetaMask钱包并启用之后。你就可以在Chrome浏览器的右上角看到MetaMask钱包的图标。点击进入即可设置你的钱包。
 
+
+### 安装imToken钱包
+&ensp;&ensp;&ensp;&ensp;如果你不喜欢Metamask钱包,你也可以使用![imToken](https://token.im/img/favicon-32x32.png)[imToken钱包](https://token.im/).
+[imToken](https://dotc.hayek.link)
 
 ## 配置你的钱包
 ### 保护好你的12个英文单词
@@ -49,6 +55,10 @@ HYK
 ```key
 https://explorer.hayek.link
 ``` 
+
+### 在imToken中添加哈耶克节点
+&ensp;&ensp;&ensp;&ensp; 按照前文的方法安装好imToken钱包之后,按顺序点击: 我->使用设置->节点设置->ETHEREUM, 点右上角的+号,选择 "自定以" ,填写哈耶克网的的网络名称 HAYEK, RPC地址:https://rpc.hayek.link ,Chain ID:1000,Symbol:HYK, 区块浏览器:https://explorer.hayek.link
+
 ## 挖矿
 
 &ensp;&ensp;&ensp;&ensp;哈耶克公链采用与以太坊当前版本完全一样的代码，并且，在很长一段时间内，我们没有必要重新发明轮子。与以太坊唯一不同的是，我们采用了与以太坊不同的创世块。所以，如果你有以太坊挖矿的经验，会很容易挖矿哈耶克币。一般情况下，矿工都是连接到一个矿池来挖矿。但是，目前由于哈耶克币挖矿的人数较少。所以，尚未建立矿池。我们欢迎您建立哈耶克币挖矿矿池。如果你建立了哈耶克币挖矿矿池。请发邮件给我们。admin@hayek.link ，我们会把您的矿池网站地址在本站列出。
@@ -124,7 +134,10 @@ https://explorer.hayek.link
 
 如果您是媒体从业人员，有意协助我们宣传推广哈耶克链。我们将视情况给与您较大金额的哈耶克币作为奖励。
 
-## 购买哈耶克币
+## 交易哈耶克币
 
-[哈耶克Uniswap去中心化交易所](/trade)
+[Uniswap on Hayek去中心化交易所(币币交易)](/trade)
+
+[去中心化OTC交易(法币交易)](https://dotc.hayek.link)
+
 
