@@ -137,6 +137,6 @@ https://explorer.hayek.link
 
 [Uniswap on Hayek去中心化交易所(币币交易)](/trade)
 
-[去中心化OTC交易(法币交易)](https://dotc.hayek.link)
+[去中心化OTC交易(法币交易)](https://hayek.link/dotc)
 
 
