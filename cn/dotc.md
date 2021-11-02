@@ -11,7 +11,7 @@ sort: 8
 &ensp;&ensp;&ensp;&ensp;请大家提交各种语言版的D-OTC交易演示视频.被采用者,将会获赠10万HYK币,请联系telegram: @hayeklink
 <video id="video" controls="" preload="none" poster="D-OTC中文手机操作教程">
       <source id="mp4" src="https://ipfs.decoo.io/ipfs/QmQXTHnW7MoCuJtfrb4cE954t7Gs2HSCZ7KKT1djpVDVLk?filename=21-10-24-12-44-35.mp4" type="video/mp4">
-</videos>
+</video>
 # D-OTC的功能
 &ensp;&ensp;&ensp;&ensp; D-OTC的主要功能,是让任何人在确保个人隐私安全的情况下,安全的与全球任何一个人进行加密货币与法定货币兑换交易的去中心化平台.
 ## D-OTC平台登陆
