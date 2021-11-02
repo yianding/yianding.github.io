@@ -11,6 +11,6 @@
 <p align="center"><a href="https://t.me/hayek_cn" target="_blank" >加入哈耶克链电报群 @hayek_cn </a></p>
 <h1>D-OTC去中心化交易所详细手机上操作视频教程 </h1>
 
-<video width="1080" height="2400" controls>
+<video width="540" height="1200" controls>
       <source id="mp4" src="https://ipfs.decoo.io/ipfs/QmQXTHnW7MoCuJtfrb4cE954t7Gs2HSCZ7KKT1djpVDVLk?filename=21-10-24-12-44-35.mp4" type="video/mp4">
 </video>
