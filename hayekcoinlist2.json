@@ -1,0 +1,33 @@
+{
+  "name": "HAYEK",
+  "logoURI": "https://hayek.link/128.png",
+  "keywords": [
+    "HAYEK",
+    "defi"
+  ],
+  "timestamp": "2021-10-25T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1000,
+      "address": "0xf8d867D8895b1879AF86D167f13BAA1CA4f0f7e7",
+      "name": "USD ON HAYEK",
+      "symbol": "USDH",
+      "decimals": 8,
+      "logoURI": "https://hayek.link/USDH.png"
+    },
+    {
+      "chainId": 1000,
+      "address": "0xf3DD11F7d8fA791c2Da46a5D26634592E417Af6C",
+      "name": "WHYK",
+      "symbol": "WHYK",
+      "decimals": 18,
+      "logoURI": "https://hayek.link/0xf3DD11F7d8fA791c2Da46a5D26634592E417Af6C.png"
+    }
+    
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
