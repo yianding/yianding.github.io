@@ -5,7 +5,7 @@
     "HAYEK",
     "defi"
   ],
-  "timestamp": "2021-11-12T20:37:00.000+00:00",
+  "timestamp": "2021-12-3T20:37:00.000+00:00",
   "tokens": [
  
     {
@@ -27,7 +27,7 @@
  
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
