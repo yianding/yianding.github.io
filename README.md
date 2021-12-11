@@ -11,7 +11,7 @@
 <p align="center"><a href="https://explorer.hayek.link"  >5.哈耶克链浏览器 </a></p>
 <p align="center"><a href="https://hayek.link/cn/get.html#%E5%87%86%E5%A4%87%E5%A5%BD%E4%BD%A0%E7%9A%84%E9%92%B1%E5%8C%85" target="_blank" >6.使用哈耶克链所有服务之前,都需要下载安装MetaMask钱包或者imToken钱包,并添加哈耶克网络到您的钱包 </a></p>
 
-<p align="center"><a href="https://t.me/hayek_cn" target="_blank" >加入哈耶克链电报群 @hayek_cn </a></p>
+<p align="center"><a href="https://t.me/hayek_cn" target="_blank" >加入哈耶克链电报群 @hayekchain </a></p>
 
 
 <h1>视频1,如何在手机上安装imtoken钱包以及设置哈耶克链网络 </h1>
