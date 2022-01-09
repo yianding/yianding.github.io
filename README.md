@@ -5,7 +5,7 @@
 <p align="center"><a href="/cn/hayek.html" > 1.哈耶克公链官网 </a></p>
 
 <p align="center"><a href="https://hayek.link/trade/#/swap"  > 2.去中心化交易所(Uniswap on Hayek) </a></p>
-<p align="center"><a href="https://hayek.link/dotc/#/allOrders"  > 3.去中心化DOTC点对点交易  </a></p>
+<p align="center"><a href="https://dotc.trade"  > 3.去中心化DOTC点对点交易  </a></p>
 <p align="center"><a href="https://miner.hayek.link" target="_blank" >4.快速挖矿教程 </a></p>
 
 <p align="center"><a href="https://explorer.hayek.link"  >5.哈耶克链浏览器 </a></p>
