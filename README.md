@@ -2,7 +2,7 @@
 
 
 <div style="text-align:center"><a href="/cn/hayek.html" > <img src="/imgs/128.png" /></a></div>
-<p align="center"><a href="[http://](https://ipfs.io/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html)" > Hayek 聊天软件内部测试版 </a></p>
+<p align="center"><a href="[https://ipfs.io/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html](https://ipfs.io/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html)" > Hayek 聊天软件内部测试版 </a></p>
 <p align="center"><a href="/cn/hayek.html" > 1.哈耶克公链官网 </a></p>
 
 <p align="center"><a href="/trade/#/swap"  > 2.去中心化交易所(Uniswap on Hayek) </a></p>
