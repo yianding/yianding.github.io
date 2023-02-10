@@ -7,7 +7,7 @@
        <a href="http://185.8.166.154/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载4 </a>
         <a href="http://116.202.33.12/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载5 </a>
 </p>
-<p align="center"><a href="https://www.bexovidchina.com" >H</a>ayek is the gate of web3.0
+<p align="center">Hayek is the gate of web3.0
 </p>
 
 
