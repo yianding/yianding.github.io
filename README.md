@@ -9,7 +9,7 @@
 <a href="http://185.8.166.154/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载4 </a>
 <a href="http://91.107.200.167:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载5 </a>
 <a href="http://46.101.242.131:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载6 </a>
-<a href="http://129.146.122.134:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载7</a>
+<a href="http://130.61.212.176:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载7</a>
 <a href="http://3.130.34.197:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载8 </a>
 <a href="http://46.4.226.207:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载9 </a>
 </p>
