@@ -13,7 +13,7 @@
 <a href="http://3.130.34.197:8080/ipfs/QmaWDwopdkV7tkTFwqLuunpa1mg6J7b6ZJEs93fNHL4n5S/down.html" > 下载8 </a>
 <a href="http://46.4.226.207:8080/ipfs/QmaWDwopdkV7tkTFwqLuunpa1mg6J7b6ZJEs93fNHL4n5S/down.html" > 下载9 </a>
 </p>
-<p align="center">Hayek is the gate of web3.0
+<p align="center">Hayek 0.2.0 dev
 </p>
 
 
