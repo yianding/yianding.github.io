@@ -16,4 +16,7 @@
 <p align="center">Hayek 0.2.1 dev
 </p>
 
+<a href="ipfs://QmXDPFVN6eevj5fbY6wmPozxK2sXJcNzT3ADWEjr3Et329/down.html" > ipfs </a>
+
+<a href="IPFS://QmXDPFVN6eevj5fbY6wmPozxK2sXJcNzT3ADWEjr3Et329/down.html" > IPFS </a>
 
