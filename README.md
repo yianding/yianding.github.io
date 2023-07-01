@@ -18,5 +18,5 @@
 
 <a href="ipfs://QmXDPFVN6eevj5fbY6wmPozxK2sXJcNzT3ADWEjr3Et329/down.html" > i </a>
 
-<a href="IPns://k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > n </a>
+<a href="IPns://k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/" > n </a>
 
