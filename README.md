@@ -17,4 +17,4 @@
 
 <a href="IPns://k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/" > n </a>
 
-<a href="web3://hayek.web3">web3://hayek.web3</a>
+<a href="web3://hayek.web3/">web3://hayek.web3</a>
