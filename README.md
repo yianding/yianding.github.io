@@ -10,7 +10,7 @@
 <a href="http://3.130.34.197:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载5 </a>
 <a href="http://46.4.226.207:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载6 </a>
 </p>
-<p align="center">Hayek 0.2.5 dev
+<p align="center">Hayek 0.2.8 dev
 </p>
 
 <a href="ipfs://QmXDPFVN6eevj5fbY6wmPozxK2sXJcNzT3ADWEjr3Et329/down.html" > i </a>
@@ -19,4 +19,4 @@
 
 <a href="https://ipfs.io/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/">ipfs.io</a>
 
-<a href="web3://hayek.web3">web3://hayek.web3</a>
+<a href="web3://hayek.web3/">web3://hayek.web3</a>
