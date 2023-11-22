@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wireguard.hayek",
+      "sha256_cert_fingerprints": [
+        "77:4C:45:1C:81:76:F9:39:FC:14:63:C3:BD:01:76:EE:0A:78:EF:3F:E9:70:0C:EA:1F:C7:B4:2A:AE:96:42:04"
+      ]
+    }
+  }
+]
