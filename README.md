@@ -9,7 +9,8 @@
 
   <a href="http://192.3.164.138/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/fdroid/release/hayek-fdroid-arm64-v8a-release.apk" > 下载4 </a>
 <a href="https://t.hayek.link/fdroid/release/hayek-fdroid-arm64-v8a-release.apk" > 下载5 </a><br>
-  <a href="https://ndown.hayek.link/hayek-fdroid-arm64-v8a-release.apk" > 下载6（墙国推荐下载点） </a>
+  <a href="http://54.202.226.167:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/fdroid/release/hayek-fdroid-arm64-v8a-release.apk" > 下载6 </a>
+  <a href="https://ndown.hayek.link/hayek-fdroid-arm64-v8a-release.apk" > 下载7（墙国推荐下载点） </a>
   
 </p>
 <p align="center">Hayek 0.2.10 dev
