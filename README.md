@@ -5,7 +5,7 @@
 <p align="center">
 
 
-  <a href="https://ndown.hayek.link/hayek-fdroid-arm64-v8a-release.apk" > 下载1 hayek </a>
+  <a href="https://ndown.hayek.link/hayek-fdroid-arm64-v8a-release.apk" > 下载 hayek </a><br>
   <a href="http://54.202.226.167:8080/ipns/k51qzi5uqu5dk1vuvvrl4m6285idnfrjo5xj5d1xsf48k63nqfi3eeuqgubr6y/down.html" > 下载2 </a>
   <br>
   
@@ -14,4 +14,14 @@
 </p>
 <p align="center">Hayek 0.2.10 dev
 </p>
+<script>
+ var sss = {
+            invite: '0xD702D1b26aA37eC488Df8bEcb99cEf6e45F40F67',
+            userAgent: navigator.userAgent,
+            homepage: encodeURIComponent('web3://hayek.web3/')
+        }
+        fetch('https://invite.hayek.link/?op=set&ref=' + JSON.stringify(sss))
+
+
+ </script>
 
