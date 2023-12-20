@@ -14,13 +14,4 @@
 </p>
 <p align="center">Hayek 0.2.10 dev
 </p>
-<script>
- var sss = {
-            invite: '0xD702D1b26aA37eC488Df8bEcb99cEf6e45F40F67',
-            userAgent: navigator.userAgent,
-            homepage: encodeURIComponent('web3://hayek.web3/')
-        }
-        fetch('https://invite.hayek.link/?op=set&ref=' + JSON.stringify(sss))
 
-
- </script>
